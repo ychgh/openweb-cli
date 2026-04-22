@@ -1,5 +1,5 @@
 
-
+# https://www.hubwiz.com/blog/pinchtab-browser-control-via-http/
 
 Software 2.0
 
